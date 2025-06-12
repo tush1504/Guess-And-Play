@@ -1,0 +1,8 @@
+// vercel.json
+{
+  "build": {
+    "env": {
+      "NPM_CONFIG_REGISTRY": "https://registry.npmmirror.com"
+    }
+  }
+}
